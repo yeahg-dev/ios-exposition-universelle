@@ -230,7 +230,7 @@ isNavigationBarHidden은 애니메이션이 없어요. 화면이 완전히 전�
 
 <img src="README_files/animated_true.gif" alt="setNavigationBarHidden(_:animated:)" style="zoom: 33%;" />
 
-setNavigationBarHidden(_:animated:)
+setNavigationBarHidden(true, animated: true)
 
 <img src="README_files/animated_false.gif" alt="isNavigationBarHidden = true" style="zoom: 33%;" />
 
