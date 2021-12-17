@@ -286,7 +286,7 @@ private func setCellConfiguration(from:, cellForRowAt:) -> UIListContentConfigur
 
 ### StackView내 ItemImageView의 제약
 
-<img src="README_files/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-12-17_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.04.05.png" alt="스크린샷 2021-12-17 오후 5.04.05.png" style="zoom:50%;" />
+<img src="README_files/haegeum.png" alt="haegeum.png" style="zoom:50%;" />
 
 - 해금, 나전칠기 등 몇몇의 이미지가 위 사진과 같이 넓이는 꽉 채우면서 위아래로 공백을 만드는 이슈가 있었습니다.
 - ItemImageView의 Content Hugging Priority를 높이는 방법으로 해결하려고 했으나, 여전히 공백을 만들어서
